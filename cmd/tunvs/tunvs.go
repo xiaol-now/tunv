@@ -1,9 +1,10 @@
 package main
 
 import (
+	"log"
+
 	"github.com/songgao/packets/ethernet"
 	"github.com/xiaol-now/tunv/tun"
-	"log"
 )
 
 func main() {
